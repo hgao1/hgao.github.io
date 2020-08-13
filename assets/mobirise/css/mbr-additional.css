@@ -1273,6 +1273,18 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #149dcc !important;
 }
+.cid-s7Ar1xe1T1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-s7Ar1xe1T1 .mbr-text,
+.cid-s7Ar1xe1T1 blockquote {
+  color: #767676;
+}
+.cid-s7Ar1xe1T1 .mbr-text {
+  color: #232323;
+}
 .cid-rWTWTL4tV6 {
   padding-top: 105px;
   padding-bottom: 75px;
